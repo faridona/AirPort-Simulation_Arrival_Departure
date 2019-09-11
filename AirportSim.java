@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Pr15982{
+public class AirportSim{
 	public static void main(String[] args) {
 		Scanner x = new Scanner(System.in);
 		int endTime, landingSize, arrivingPlane = 0, departingPlane = 0, flightN = 0;
